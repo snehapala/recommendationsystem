@@ -25,3 +25,5 @@ Collaborative filtering is commonly used for recommender systems. These techniqu
 CF is based on the idea that the best recommendations come from people who have similar tastes. In other words, it uses historical item ratings of like-minded people to predict how someone would rate an item.
 
 ##### User-User Collaborative Filtering
+
+![User-User Similarity](https://github.com/snehapala/recommendationsystem/blob/master/User-User_Similarity.png)
