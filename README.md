@@ -6,6 +6,11 @@ In a very general way, recommender systems are algorithms aimed at suggesting re
 
 In this project, I have taken into consideration the electronic products dataset. We are considering userId, productId, ratings and timestamp features for the analysis in this case study.
 
+### Dataset
+
+Dataset is huge and can be referenced from below link:
+https://drive.google.com/file/d/1ClBptsK3V5KgKXtK2GSRzFNAW7GnTPDW/view
+
 ### Recommender System's Built:
 
 #### 1. Popularity Recommender Model
@@ -18,3 +23,5 @@ Example, In Amazon website, we can suggest popular electronic products by purcha
 
 Collaborative filtering is commonly used for recommender systems. These techniques aim to fill in the missing entries of a user-item association matrix. We are going to use collaborative filtering (CF) approach.
 CF is based on the idea that the best recommendations come from people who have similar tastes. In other words, it uses historical item ratings of like-minded people to predict how someone would rate an item.
+
+##### User-User Collaborative Filtering
