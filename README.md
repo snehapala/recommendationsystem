@@ -24,6 +24,6 @@ Example, In Amazon website, we can suggest popular electronic products by purcha
 Collaborative filtering is commonly used for recommender systems. These techniques aim to fill in the missing entries of a user-item association matrix. We are going to use collaborative filtering (CF) approach.
 CF is based on the idea that the best recommendations come from people who have similar tastes. In other words, it uses historical item ratings of like-minded people to predict how someone would rate an item.
 
-##### User-User Collaborative Filtering
+###### <i><ins>a. User-User Collaborative Filtering</ins></i>
 
 ![User-User Similarity](https://github.com/snehapala/recommendationsystem/blob/master/User-User_Similarity.png)
