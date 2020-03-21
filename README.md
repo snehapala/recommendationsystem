@@ -27,3 +27,8 @@ CF is based on the idea that the best recommendations come from people who have 
 ###### <i><ins>a. User-User Collaborative Filtering</ins></i>
 
 ![User-User Similarity](https://github.com/snehapala/recommendationsystem/blob/master/User-User_Similarity.png)
+
+
+###### <i><ins>b. Item Based Collaborative Filtering</ins></i>
+
+![Item-Item Similarity](https://github.com/snehapala/recommendationsystem/blob/master/Item-Item_Similarity.png)
